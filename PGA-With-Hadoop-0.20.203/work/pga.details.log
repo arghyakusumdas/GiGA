@@ -1,0 +1,102 @@
+2014-10-14 17:01:47.255 [main] INFO pga.FastqPreprocessor - Tool name: FastqPreprocessor
+2014-10-14 17:01:47.256 [main] INFO pga.FastqPreprocessor -  - input: /home/hadoop/workspace/GraphSurf2/Data/
+2014-10-14 17:01:47.256 [main] INFO pga.FastqPreprocessor -  - output: /home/hadoop/workspace/GraphSurf2/ass/00-preprocess
+2014-10-14 17:01:47.687 [main] WARN org.apache.hadoop.mapred.JobClient - Use GenericOptionsParser for parsing the arguments. Applications should implement Tool for the same.
+2014-10-14 17:01:47.691 [main] WARN org.apache.hadoop.mapred.JobClient - No job jar file set.  User classes may not be found. See JobConf(Class) or JobConf#setJar(String).
+2014-10-14 17:01:47.732 [main] INFO org.apache.hadoop.mapred.JobClient - Cleaning up the staging area file:/tmp/hadoop-hadoop/mapred/staging/hadoop-1291353419/.staging/job_local_0001
+2014-10-14 17:03:46.987 [main] INFO pga.FastqPreprocessor - Tool name: FastqPreprocessor
+2014-10-14 17:03:46.988 [main] INFO pga.FastqPreprocessor -  - input: /home/hadoop/workspace/GraphSurf2/Data/
+2014-10-14 17:03:46.988 [main] INFO pga.FastqPreprocessor -  - output: /home/hadoop/workspace/GraphSurf2/ass/00-preprocess
+2014-10-14 17:03:47.145 [main] WARN org.apache.hadoop.mapred.JobClient - Use GenericOptionsParser for parsing the arguments. Applications should implement Tool for the same.
+2014-10-14 17:03:47.148 [main] WARN org.apache.hadoop.mapred.JobClient - No job jar file set.  User classes may not be found. See JobConf(Class) or JobConf#setJar(String).
+2014-10-14 17:03:47.155 [main] INFO org.apache.hadoop.mapred.JobClient - Cleaning up the staging area file:/tmp/hadoop-hadoop/mapred/staging/hadoop914540653/.staging/job_local_0001
+2014-10-14 17:05:18.149 [main] INFO pga.QuickMerge - Tool name: QuickMerge
+2014-10-14 17:05:18.150 [main] INFO pga.QuickMerge -  - input: /home/hadoop/workspace/GraphSurf2/ass/01-initial
+2014-10-14 17:05:18.150 [main] INFO pga.QuickMerge -  - output: /home/hadoop/workspace/GraphSurf2/ass/01-initial.m
+2014-10-14 17:05:18.308 [main] WARN org.apache.hadoop.mapred.JobClient - Use GenericOptionsParser for parsing the arguments. Applications should implement Tool for the same.
+2014-10-14 17:05:18.312 [main] WARN org.apache.hadoop.mapred.JobClient - No job jar file set.  User classes may not be found. See JobConf(Class) or JobConf#setJar(String).
+2014-10-14 17:05:18.322 [main] INFO org.apache.hadoop.mapred.JobClient - Cleaning up the staging area file:/tmp/hadoop-hadoop/mapred/staging/hadoop-563917371/.staging/job_local_0001
+2014-10-15 00:54:13.266 [main] INFO pga.QuickMerge - Tool name: QuickMerge
+2014-10-15 00:54:13.267 [main] INFO pga.QuickMerge -  - input: /home/hadoop/workspace/GraphSurf2/ass/01-initial
+2014-10-15 00:54:13.267 [main] INFO pga.QuickMerge -  - output: /home/hadoop/workspace/GraphSurf2/ass/01-initial.m
+2014-10-15 00:54:13.434 [main] WARN org.apache.hadoop.mapred.JobClient - Use GenericOptionsParser for parsing the arguments. Applications should implement Tool for the same.
+2014-10-15 00:54:13.438 [main] WARN org.apache.hadoop.mapred.JobClient - No job jar file set.  User classes may not be found. See JobConf(Class) or JobConf#setJar(String).
+2014-10-15 00:54:13.451 [main] INFO org.apache.hadoop.mapred.JobClient - Cleaning up the staging area file:/tmp/hadoop-hadoop/mapred/staging/hadoop-264888361/.staging/job_local_0001
+2014-10-15 00:56:05.315 [main] INFO pga.FastqPreprocessor - Tool name: FastqPreprocessor
+2014-10-15 00:56:05.316 [main] INFO pga.FastqPreprocessor -  - input: /home/hadoop/workspace/GraphSurf2/Data/
+2014-10-15 00:56:05.316 [main] INFO pga.FastqPreprocessor -  - output: /home/hadoop/workspace/GraphSurf2/ass/00-preprocess
+2014-10-15 00:56:05.500 [main] WARN org.apache.hadoop.mapred.JobClient - Use GenericOptionsParser for parsing the arguments. Applications should implement Tool for the same.
+2014-10-15 00:56:05.504 [main] WARN org.apache.hadoop.mapred.JobClient - No job jar file set.  User classes may not be found. See JobConf(Class) or JobConf#setJar(String).
+2014-10-15 00:56:05.512 [main] INFO org.apache.hadoop.mapred.JobClient - Cleaning up the staging area file:/tmp/hadoop-hadoop/mapred/staging/hadoop1001974970/.staging/job_local_0001
+2014-10-15 01:10:50.709 [main] INFO pga.QuickMerge - Tool name: QuickMerge
+2014-10-15 01:10:50.710 [main] INFO pga.QuickMerge -  - input: /home/hadoop/workspace/GraphSurf2/ass/01-initial
+2014-10-15 01:10:50.710 [main] INFO pga.QuickMerge -  - output: /home/hadoop/workspace/GraphSurf2/ass/01-initial.m
+2014-10-15 01:10:50.880 [main] WARN org.apache.hadoop.mapred.JobClient - Use GenericOptionsParser for parsing the arguments. Applications should implement Tool for the same.
+2014-10-15 01:10:50.884 [main] WARN org.apache.hadoop.mapred.JobClient - No job jar file set.  User classes may not be found. See JobConf(Class) or JobConf#setJar(String).
+2014-10-15 01:10:50.897 [main] INFO org.apache.hadoop.mapred.JobClient - Cleaning up the staging area file:/tmp/hadoop-hadoop/mapred/staging/hadoop-938534989/.staging/job_local_0001
+2014-10-15 01:20:42.249 [main] INFO pga.QuickMerge - Tool name: QuickMerge
+2014-10-15 01:20:42.250 [main] INFO pga.QuickMerge -  - input: /home/hadoop/workspace/GraphSurf2/ass/01-initial
+2014-10-15 01:20:42.250 [main] INFO pga.QuickMerge -  - output: /home/hadoop/workspace/GraphSurf2/ass/01-initial.m
+2014-10-15 01:20:42.423 [main] WARN org.apache.hadoop.mapred.JobClient - Use GenericOptionsParser for parsing the arguments. Applications should implement Tool for the same.
+2014-10-15 01:20:42.426 [main] WARN org.apache.hadoop.mapred.JobClient - No job jar file set.  User classes may not be found. See JobConf(Class) or JobConf#setJar(String).
+2014-10-15 01:20:42.440 [main] INFO org.apache.hadoop.mapred.JobClient - Cleaning up the staging area file:/tmp/hadoop-hadoop/mapred/staging/hadoop-1208337684/.staging/job_local_0001
+2014-10-15 12:06:00.441 [main] INFO pga.QuickMerge - Tool name: QuickMerge
+2014-10-15 12:06:00.442 [main] INFO pga.QuickMerge -  - input: /home/hadoop/workspace/GraphSurf2/ass/01-initial
+2014-10-15 12:06:00.442 [main] INFO pga.QuickMerge -  - output: /home/hadoop/workspace/GraphSurf2/ass/01-initial.m
+2014-10-15 12:06:00.605 [main] WARN org.apache.hadoop.mapred.JobClient - Use GenericOptionsParser for parsing the arguments. Applications should implement Tool for the same.
+2014-10-15 12:06:00.609 [main] WARN org.apache.hadoop.mapred.JobClient - No job jar file set.  User classes may not be found. See JobConf(Class) or JobConf#setJar(String).
+2014-10-15 12:06:00.620 [main] INFO org.apache.hadoop.mapred.JobClient - Cleaning up the staging area file:/tmp/hadoop-hadoop/mapred/staging/hadoop-1755294325/.staging/job_local_0001
+2014-10-15 12:06:59.742 [main] INFO pga.QuickMerge - Tool name: QuickMerge
+2014-10-15 12:06:59.742 [main] INFO pga.QuickMerge -  - input: /home/hadoop/workspace/GraphSurf2/ass/01-initial
+2014-10-15 12:06:59.743 [main] INFO pga.QuickMerge -  - output: /home/hadoop/workspace/GraphSurf2/ass/01-initial.m
+2014-10-15 12:06:59.903 [main] WARN org.apache.hadoop.mapred.JobClient - Use GenericOptionsParser for parsing the arguments. Applications should implement Tool for the same.
+2014-10-15 12:06:59.907 [main] WARN org.apache.hadoop.mapred.JobClient - No job jar file set.  User classes may not be found. See JobConf(Class) or JobConf#setJar(String).
+2014-10-15 12:06:59.918 [main] INFO org.apache.hadoop.mapred.JobClient - Cleaning up the staging area file:/tmp/hadoop-hadoop/mapred/staging/hadoop-965475169/.staging/job_local_0001
+2014-10-15 12:07:44.039 [main] INFO pga.QuickMerge - Tool name: QuickMerge
+2014-10-15 12:07:44.040 [main] INFO pga.QuickMerge -  - input: /home/hadoop/workspace/GraphSurf2/ass/01-initial
+2014-10-15 12:07:44.040 [main] INFO pga.QuickMerge -  - output: /home/hadoop/workspace/GraphSurf2/ass/01-initial.m
+2014-10-15 12:07:44.201 [main] WARN org.apache.hadoop.mapred.JobClient - Use GenericOptionsParser for parsing the arguments. Applications should implement Tool for the same.
+2014-10-15 12:07:44.205 [main] WARN org.apache.hadoop.mapred.JobClient - No job jar file set.  User classes may not be found. See JobConf(Class) or JobConf#setJar(String).
+2014-10-15 12:07:44.216 [main] INFO org.apache.hadoop.mapred.JobClient - Cleaning up the staging area file:/tmp/hadoop-hadoop/mapred/staging/hadoop286309189/.staging/job_local_0001
+2014-10-15 12:09:49.544 [main] INFO pga.FastqPreprocessor - Tool name: FastqPreprocessor
+2014-10-15 12:09:49.545 [main] INFO pga.FastqPreprocessor -  - input: /home/hadoop/workspace/GraphSurf2/Data/
+2014-10-15 12:09:49.545 [main] INFO pga.FastqPreprocessor -  - output: /home/hadoop/workspace/GraphSurf2/ass/00-preprocess
+2014-10-15 12:09:49.707 [main] WARN org.apache.hadoop.mapred.JobClient - Use GenericOptionsParser for parsing the arguments. Applications should implement Tool for the same.
+2014-10-15 12:09:49.711 [main] WARN org.apache.hadoop.mapred.JobClient - No job jar file set.  User classes may not be found. See JobConf(Class) or JobConf#setJar(String).
+2014-10-15 12:09:49.719 [main] INFO org.apache.hadoop.mapred.JobClient - Cleaning up the staging area file:/tmp/hadoop-hadoop/mapred/staging/hadoop1386496350/.staging/job_local_0001
+2014-10-16 22:14:22.937 [main] INFO pga.FastqPreprocessor - Tool name: FastqPreprocessor
+2014-10-16 22:14:22.938 [main] INFO pga.FastqPreprocessor -  - input: /home/hadoop/workspace/GraphSurf2/Data/
+2014-10-16 22:14:22.938 [main] INFO pga.FastqPreprocessor -  - output: /home/hadoop/workspace/GraphSurf2/ass/00-preprocess
+2014-10-16 22:14:23.124 [main] WARN org.apache.hadoop.mapred.JobClient - Use GenericOptionsParser for parsing the arguments. Applications should implement Tool for the same.
+2014-10-16 22:14:23.128 [main] WARN org.apache.hadoop.mapred.JobClient - No job jar file set.  User classes may not be found. See JobConf(Class) or JobConf#setJar(String).
+2014-10-16 22:14:23.136 [main] INFO org.apache.hadoop.mapred.JobClient - Cleaning up the staging area file:/tmp/hadoop-hadoop/mapred/staging/hadoop949381282/.staging/job_local_0001
+2014-11-06 08:11:12.796 [main] INFO pga.QuickMerge - Tool name: QuickMerge
+2014-11-06 08:11:12.846 [main] INFO pga.QuickMerge -  - input: /home/hadoop/workspace/GraphSurf2/ass/01-initial
+2014-11-06 08:11:12.846 [main] INFO pga.QuickMerge -  - output: /home/hadoop/workspace/GraphSurf2/ass/01-initial.m
+2014-11-06 08:11:13.548 [main] WARN org.apache.hadoop.mapred.JobClient - Use GenericOptionsParser for parsing the arguments. Applications should implement Tool for the same.
+2014-11-06 08:11:13.573 [main] WARN org.apache.hadoop.mapred.JobClient - No job jar file set.  User classes may not be found. See JobConf(Class) or JobConf#setJar(String).
+2014-11-06 08:11:13.635 [main] INFO org.apache.hadoop.mapred.JobClient - Cleaning up the staging area file:/tmp/hadoop-hadoop/mapred/staging/hadoop841939506/.staging/job_local_0001
+2014-11-06 08:12:33.163 [main] INFO pga.QuickMerge - Tool name: QuickMerge
+2014-11-06 08:12:33.164 [main] INFO pga.QuickMerge -  - input: /home/hadoop/workspace/GraphSurf2/ass/01-initial
+2014-11-06 08:12:33.164 [main] INFO pga.QuickMerge -  - output: /home/hadoop/workspace/GraphSurf2/ass/01-initial.m
+2014-11-06 08:12:33.329 [main] WARN org.apache.hadoop.mapred.JobClient - Use GenericOptionsParser for parsing the arguments. Applications should implement Tool for the same.
+2014-11-06 08:12:33.333 [main] WARN org.apache.hadoop.mapred.JobClient - No job jar file set.  User classes may not be found. See JobConf(Class) or JobConf#setJar(String).
+2014-11-06 08:12:33.345 [main] INFO org.apache.hadoop.mapred.JobClient - Cleaning up the staging area file:/tmp/hadoop-hadoop/mapred/staging/hadoop1013393359/.staging/job_local_0001
+2014-11-06 08:13:14.344 [main] INFO pga.QuickMerge - Tool name: QuickMerge
+2014-11-06 08:13:14.345 [main] INFO pga.QuickMerge -  - input: /home/hadoop/workspace/GraphSurf2/ass/01-initial
+2014-11-06 08:13:14.345 [main] INFO pga.QuickMerge -  - output: /home/hadoop/workspace/GraphSurf2/ass/01-initial.m
+2014-11-06 08:13:14.510 [main] WARN org.apache.hadoop.mapred.JobClient - Use GenericOptionsParser for parsing the arguments. Applications should implement Tool for the same.
+2014-11-06 08:13:14.514 [main] WARN org.apache.hadoop.mapred.JobClient - No job jar file set.  User classes may not be found. See JobConf(Class) or JobConf#setJar(String).
+2014-11-06 08:13:14.525 [main] INFO org.apache.hadoop.mapred.JobClient - Cleaning up the staging area file:/tmp/hadoop-hadoop/mapred/staging/hadoop1629568834/.staging/job_local_0001
+2014-11-06 08:13:31.095 [main] INFO pga.QuickMerge - Tool name: QuickMerge
+2014-11-06 08:13:31.096 [main] INFO pga.QuickMerge -  - input: /home/hadoop/workspace/GraphSurf2/ass/01-initial
+2014-11-06 08:13:31.096 [main] INFO pga.QuickMerge -  - output: /home/hadoop/workspace/GraphSurf2/ass/01-initial.m
+2014-11-06 08:13:31.261 [main] WARN org.apache.hadoop.mapred.JobClient - Use GenericOptionsParser for parsing the arguments. Applications should implement Tool for the same.
+2014-11-06 08:13:31.264 [main] WARN org.apache.hadoop.mapred.JobClient - No job jar file set.  User classes may not be found. See JobConf(Class) or JobConf#setJar(String).
+2014-11-06 08:13:31.276 [main] INFO org.apache.hadoop.mapred.JobClient - Cleaning up the staging area file:/tmp/hadoop-hadoop/mapred/staging/hadoop783660997/.staging/job_local_0001
+2014-11-06 23:37:07.392 [main] INFO pga.QuickMerge - Tool name: QuickMerge
+2014-11-06 23:37:07.407 [main] INFO pga.QuickMerge -  - input: /home/hadoop/workspace/GraphSurf2/ass/01-initial
+2014-11-06 23:37:07.407 [main] INFO pga.QuickMerge -  - output: /home/hadoop/workspace/GraphSurf2/ass/01-initial.m
+2014-11-06 23:37:08.157 [main] WARN org.apache.hadoop.mapred.JobClient - Use GenericOptionsParser for parsing the arguments. Applications should implement Tool for the same.
+2014-11-06 23:37:08.189 [main] WARN org.apache.hadoop.mapred.JobClient - No job jar file set.  User classes may not be found. See JobConf(Class) or JobConf#setJar(String).
+2014-11-06 23:37:08.251 [main] INFO org.apache.hadoop.mapred.JobClient - Cleaning up the staging area file:/tmp/hadoop-hadoop/mapred/staging/hadoop-1716039013/.staging/job_local_0001

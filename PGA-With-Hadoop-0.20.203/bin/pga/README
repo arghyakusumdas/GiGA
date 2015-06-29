@@ -1,0 +1,22 @@
+Open Eclipse
+File>New>Project>JavaProject>GraphSurf2
+Inside src of the project directory copy pga
+Get libraries from hadoop and giraph
+Add those to build path
+Compile and Run
+
+
+For local run:
+Right click GraphSurf2>Project properties>Run/Debug settings>Select GraphSurf2>Edit>Arguments
+-asm /home/hadoop/workspace/GraphSurf2/ass (output directory)
+-k 27
+-reads /home/hadoop/workspace/GraphSurf2/Data/ (input directory)
+-insertlen 180
+-minuniquecov 10
+-maxuniquecov 30
+-wiggle 15
+-threads 5
+-maxthreads 30
+-maxfrontier 15
+-runPregelMerge
+-w 1
